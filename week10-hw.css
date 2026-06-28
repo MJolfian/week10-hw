@@ -1,8 +1,4 @@
-img{
-	background-color: cornflowerblue;
-/*	height: 100%;*/
-	
-}
-aside{
-	align-items: center;
+*{
+/*	transform: rotate(180deg);*/
+/*	transition: all 1s;*/
 }
