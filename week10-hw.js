@@ -132,7 +132,7 @@ function checkSameImg(){
 			}
 		}
 	timesOfTrying++;
-	console.log(timesOfTrying,correct,correct.length);
+	console.log('timesOfTrying:',timesOfTrying,correct,correct.length);
 	if(correct.length===12){
 		correct=[];
 				setTimeout(()=>{
@@ -161,3 +161,16 @@ clearScoreboardBtn.addEventListener('click',()=>{
 	gamers=[];
 	selectTbodyTag.innerHTML='';
 });
+
+
+//---------------------------------for learn more-----------------------
+//const firstimg=selectAsideEL.querySelector('img')
+////console.log(firstimg);
+//firstimg.dataset.productId='99';
+//selectAsideEL.addEventListener('click',(event)=>{
+//	console.log(event.target.dataset.productId);
+//	console.log(event.target.name);
+//})
+//
+//let testtext='he wasnt there'.replace('he', 'she');
+//console.log(testtext.replace('there', 'here'));
