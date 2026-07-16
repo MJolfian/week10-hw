@@ -1,3 +1,14 @@
-p{
-	color: red;
+<<<<<<< HEAD
+*{
+/*	transform: rotate(180deg);*/
+/*	transition: all 1s;*/
+=======
+img{
+	background-color: cornflowerblue;
+/*	height: 100%;*/
+	
+}
+aside{
+	align-items: center;
+>>>>>>> 53b3646eeb43a771bbbfb3f9bc0cc5e641e96ea1
 }
