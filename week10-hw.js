@@ -169,6 +169,7 @@ clearScoreboardBtn.addEventListener('click',()=>{
 //firstimg.dataset.productId='99';
 //selectAsideEL.addEventListener('click',(event)=>{
 //	console.log(event.target.dataset.productId);
+//	console.log(event.target.dataset);
 //	console.log(event.target.name);
 //})
 //
